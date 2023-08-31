@@ -1,6 +1,6 @@
 # Hangman_Exc
 The popular word-guessing game made for the WBS Coding School 'Data Science' Boot camp. Basic Python
-Easy Intro into Python. 
+Easy Intro into Python. Created in Google Colab.
 
 Pay attention to my ascii art!
 
